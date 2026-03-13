@@ -16,7 +16,7 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 3. Jalankan `npx expo start`.
 
 ## 🚀 Cara Menjalankan
-1. Clone repository ini:
+1. Clone repository ini: https://github.com/laiapriska24-sys/profil-priska/blob/main/tugas2/README.md
 2. Masuk ke folder project: cd tugas2
 3. Install dependencies: npm install
 4. Jalankan aplikasi: npx expo start
